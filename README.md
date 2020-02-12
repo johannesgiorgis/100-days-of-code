@@ -13,7 +13,11 @@ Most of the below content was from the original [Kallay 100-days-of-code reposit
 
 ## Plan
 
-I will start by working through:
+My intention for starting this #100DaysOfCode challenge is to immerse myself in building Python Web Services and to become comfortable building and deploying Web Backend Systems and RESTful APIs. I will start with Michael Kennedy's excellent [Talk Python Training](https://training.talkpython.fm/) courses. I plan on supplementing that with [RealPython's Learning Paths](https://realpython.com/learning-paths/) and [Udacity](https://www.udacity.com/)'s set of free Web Development and Software Engineering courses.
+
+The goal is to become proficient in backend development using Python, become more comfortable using some of Python 3's very cool new functionalities such as async.
+
+Specifically, I plan on covering the following:
 
 - Talk Python Courses:
   - [Building Data Driven Web Apps with Flask, SQLAlchemy & Bootstrap](https://training.talkpython.fm/courses/details/building-data-driven-web-applications-in-python-with-flask-sqlalchemy-and-bootstrap)
