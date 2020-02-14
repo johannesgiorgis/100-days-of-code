@@ -18,3 +18,12 @@ The log of my #100DaysOfCode challenge. Started on Tuesday, February 11, 2020.
 **Thoughts**: Learning about Michael's approach to organizing his code is interesting - he is very organized and has come up with an approach that works well for him. It's great to learn how to structure Flask Apps to allow you to grow them over time instead of the typical stuff you find in most Flask tutorials.
 
 **Link(s) to work**: [Bootstrap Folder + Initial Design work](https://github.com/johannesgiorgis/talkpython/tree/56c8015db716e4b419bb4930881e3ddca9aec29c/data-driven-web-apps-with-flask)
+
+
+### Day 3: Thursday, February 13th, 2020
+
+**Today's Progress**: I continued working through Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I completed the _Adding Our Design_ chapter.
+
+**Thoughts**: Front-end and Design work is so not my forte - it took much longer than I expected to get everything working as in the class chapter. But it worked and it was great seeing the processing of going from plain vanilla HTML to a fully designed set of pages.
+
+**Link(s) to work**: [Completed Initial Design work](https://github.com/johannesgiorgis/talkpython/tree/973d6760a8860d2a0509ca14d5a9e462c52969c9/data-driven-web-apps-with-flask/pypi_org)
