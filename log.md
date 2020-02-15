@@ -27,3 +27,12 @@ The log of my #100DaysOfCode challenge. Started on Tuesday, February 11, 2020.
 **Thoughts**: Front-end and Design work is so not my forte - it took much longer than I expected to get everything working as in the class chapter. But it worked and it was great seeing the processing of going from plain vanilla HTML to a fully designed set of pages.
 
 **Link(s) to work**: [Completed Initial Design work](https://github.com/johannesgiorgis/talkpython/tree/973d6760a8860d2a0509ca14d5a9e462c52969c9/data-driven-web-apps-with-flask/pypi_org)
+
+
+### Day 4: Friday, February 14th, 2020
+
+**Today's Progress**: I continued working through Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I completed the _Moddeling data with SQLAlchemy classes_ chapter and started working on the _Using SQLAlchemy_ chapter.
+
+**Thoughts**: It was fun to be back at the back end :) Working with SQLAlchemy is very interesting. These chapters I had jumped through before so it served as a good revision.
+
+**Link(s) to work**: [Basic Insert Script Completed](https://github.com/johannesgiorgis/talkpython/tree/ca02f26ec0e72f52fa5611cc2318983b767b09be/data-driven-web-apps-with-flask/pypi_org)
