@@ -54,3 +54,12 @@ The log of my #100DaysOfCode challenge. Started on Tuesday, February 11, 2020.
 **Thoughts**: This past week saw me travel back and start my new job and I ended up not working on this until the end of the week. I completed Chapter 9, _Using SQLAlchemy_ which was interesting. I need to wrap my head around relationships and querying them in SQLAlechmy. Tomorrow, I jump to doing Database migrations with Alembic so I'm excited to learn more about that.
 
 **Link(s) to work**: [Completed using SQLAlchemy](https://github.com/johannesgiorgis/talkpython/tree/5477e33ad2686520a5d307ebc4a9b1feed3167c0/data-driven-web-apps-with-flask)
+
+
+### Day 7: Saturday, February 22nd, 2020
+
+**Today's Progress**: I continued working through Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I completed the _Database Migrations with Alembic_ chapter.
+
+**Thoughts**: Learning how you could evolve your Relational Database without touching any SQL code is very cool! I look forward to incorporating Alembic along with SQLAlechmy in my future projects.
+
+**Link(s) to work**: [Completed Database Migrations with Alembic](https://github.com/johannesgiorgis/talkpython/tree/c666167da58ee426aedd0eafb89ea51411496e7c/data-driven-web-apps-with-flask)
