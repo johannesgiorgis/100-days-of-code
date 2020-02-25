@@ -73,3 +73,11 @@ The log of my #100DaysOfCode challenge. Started on Tuesday, February 11, 2020.
 
 **Link(s) to work**: [Start work on User Input and HTML Forms](https://github.com/johannesgiorgis/talkpython/tree/431168f82ac26163fd8822daef0bd44f97332746/data-driven-web-apps-with-flask)
 
+
+### Day 9: Monday, February 24th, 2020
+
+**Today's Progress**: I continued working through Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I completed the _User input and HTML forms_ chapter.
+
+**Thoughts**: This back half of the chapter was focused on putting the backend pieces together to allow user registration and login, user log out and change the navigational options based on whether a user was logged in or not via the use of cookies.
+
+**Link(s) to work**: [Completed User Input and HTML Forms Chapter](https://github.com/johannesgiorgis/talkpython/tree/171f5a93359f7741607c901f46b9ff8a4518270d/data-driven-web-apps-with-flask)
