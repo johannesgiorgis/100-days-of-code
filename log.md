@@ -63,3 +63,13 @@ The log of my #100DaysOfCode challenge. Started on Tuesday, February 11, 2020.
 **Thoughts**: Learning how you could evolve your Relational Database without touching any SQL code is very cool! I look forward to incorporating Alembic along with SQLAlechmy in my future projects.
 
 **Link(s) to work**: [Completed Database Migrations with Alembic](https://github.com/johannesgiorgis/talkpython/tree/c666167da58ee426aedd0eafb89ea51411496e7c/data-driven-web-apps-with-flask)
+
+
+### Day 8: Sunday, February 23rd, 2020
+
+**Today's Progress**: I continued working through Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I got half way through the _User input and HTML forms_ chapter. I also continued my new habit of taking some course notes focusing on the concepts covered so I could review them later.
+
+**Thoughts**: Integrating the front end and back end pieces of forms is super cool. This first half was mostly focused on understanding the GET-POST-Redirect pattern along with designing the Register and Login forms.
+
+**Link(s) to work**: [Start work on User Input and HTML Forms](https://github.com/johannesgiorgis/talkpython/tree/431168f82ac26163fd8822daef0bd44f97332746/data-driven-web-apps-with-flask)
+
