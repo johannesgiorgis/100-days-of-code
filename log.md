@@ -81,3 +81,12 @@ The log of my #100DaysOfCode challenge. Started on Tuesday, February 11, 2020.
 **Thoughts**: This back half of the chapter was focused on putting the backend pieces together to allow user registration and login, user log out and change the navigational options based on whether a user was logged in or not via the use of cookies.
 
 **Link(s) to work**: [Completed User Input and HTML Forms Chapter](https://github.com/johannesgiorgis/talkpython/tree/171f5a93359f7741607c901f46b9ff8a4518270d/data-driven-web-apps-with-flask)
+
+
+### Day 10: Wednesday, February 26th, 2020
+
+**Today's Progress**: Yesterday, I took a day off. Today, I continued working through Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I worked halfway through the _Client and server-side validation_ chapter.
+
+**Thoughts**: I really like the View Models design pattern that Michael introduces us to in this chapter. I need to revisit this to wrap my head around what an appropriate view model looks like. I did understand the general gist of cleaning up your views to ensure they are kept straight forward without a lot of validation and checking code intermixed with them.
+
+**Link(s) to work**: [Started incorporating View Models](https://github.com/johannesgiorgis/talkpython/tree/0b9046bc997531b95d7f073c5501632714d8fbd7/data-driven-web-apps-with-flask)
