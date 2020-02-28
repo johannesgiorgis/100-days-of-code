@@ -90,3 +90,13 @@ The log of my #100DaysOfCode challenge. Started on Tuesday, February 11, 2020.
 **Thoughts**: I really like the View Models design pattern that Michael introduces us to in this chapter. I need to revisit this to wrap my head around what an appropriate view model looks like. I did understand the general gist of cleaning up your views to ensure they are kept straight forward without a lot of validation and checking code intermixed with them.
 
 **Link(s) to work**: [Started incorporating View Models](https://github.com/johannesgiorgis/talkpython/tree/0b9046bc997531b95d7f073c5501632714d8fbd7/data-driven-web-apps-with-flask)
+
+
+
+### Day 11: Thursday, February 27th, 2020
+
+**Today's Progress**: Today, I continued working through Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I completed working through the _Client and server-side validation_ chapter.
+
+**Thoughts**: I started to get a deeper understanding of how View Models design pattern works. It is a nice way to organize your code and keep your view methods clean. The habit of taking notes for the concept part of the lectures is very helpful to reinforce these lessons and have an organized notes around them.
+
+**Link(s) to work**: [Started incorporating View Models](https://github.com/johannesgiorgis/talkpython/tree/5c9dfced2cb7967ffa2b53a0ff6e4c6a104011cd/data-driven-web-apps-with-flask)
