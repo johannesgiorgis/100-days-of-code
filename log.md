@@ -90,3 +90,27 @@ The log of my #100DaysOfCode challenge. Started on Tuesday, February 11, 2020.
 **Thoughts**: I really like the View Models design pattern that Michael introduces us to in this chapter. I need to revisit this to wrap my head around what an appropriate view model looks like. I did understand the general gist of cleaning up your views to ensure they are kept straight forward without a lot of validation and checking code intermixed with them.
 
 **Link(s) to work**: [Started incorporating View Models](https://github.com/johannesgiorgis/talkpython/tree/0b9046bc997531b95d7f073c5501632714d8fbd7/data-driven-web-apps-with-flask)
+
+
+
+### Day 11: Thursday, February 27th, 2020
+
+**Today's Progress**: Today, I continued working through Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I completed working through the _Client and server-side validation_ chapter.
+
+**Thoughts**: I started to get a deeper understanding of how View Models design pattern works. It is a nice way to organize your code and keep your view methods clean. The habit of taking notes for the concept part of the lectures is very helpful to reinforce these lessons and have an organized notes around them.
+
+**Link(s) to work**: [Started incorporating View Models](https://github.com/johannesgiorgis/talkpython/tree/5c9dfced2cb7967ffa2b53a0ff6e4c6a104011cd/data-driven-web-apps-with-flask)
+
+
+### Day 12: Friday, February 28th, 2020
+
+**Today's Progress**: Today, I continued working through Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I worked on extending the use of view models to the rest of the application as part of the _Client and server-side validation_ chapter.
+
+**Thoughts**: As I extended the use of view models to the rest of the application, I hit a bug that I was unable to resolve. I spent some time debugging and comparing my code with the course code and got nothing. Finally, I created a `working-version` branch based on yesterday's commit and started adding changes there while verifying I could still run the application. Through the process, I was able to fix a couple of issues:
+
+- Fix SQLAlchemy session issues due to session not being closed within the services/ directory files
+- Resolved my main issue of breaking the web app - the issue might have been in the `viewmodels/home/index_viewmodel.py` file as I may have been calling functions that didn't expect and passing nonsense to the Jinja template which was complaining.
+
+I will continue to make my changes tomorrow and move to the next chapter on testing tomorrow.
+
+**Link(s) to work**: [Getting back to working version of app](https://github.com/johannesgiorgis/talkpython/tree/working-version/data-driven-web-apps-with-flask)
