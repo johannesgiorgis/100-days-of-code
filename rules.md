@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-Wednesday, March 20th, 2019.
+Wednesday, March 1st, 2020.
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfDataScience
