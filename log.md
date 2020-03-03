@@ -114,3 +114,14 @@ The log of my #100DaysOfCode challenge. Started on Tuesday, February 11, 2020.
 I will continue to make my changes tomorrow and move to the next chapter on testing tomorrow.
 
 **Link(s) to work**: [Getting back to working version of app](https://github.com/johannesgiorgis/talkpython/tree/working-version/data-driven-web-apps-with-flask)
+
+
+### Day 13: Monday, March 2nd, 2020
+
+**Today's Progress**: The past couple of days I hit a snafu with Github related to hiding my email and ensuring that Github wouldn't allow me to push a commit to expose this private email. I did some work on Saturday before I got sidetracked but decided not to log it as it wasn't really a full hour. I continued my work on Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I extended view models to the rest of the view methods in the application, ensured it was working again via using another branch and now I started working on the next chapter, _Testing Web Apps_.
+
+**Thoughts**: Implementing the rest of the view models helped me further understand how they work. Again, I'd like to build a similar proejct on my own and implement them to ensure I really understand them. They are quite a nice way to further clean and organize your code. I really like that Michael is very organized in his approach to his projects. Getting into the later parts of this course and covering topics such as testing and deployment are very exciting. Writing down the concepts as I go for later review and reinforcement continues to be helpful.
+
+**Link(s) to work**: [Getting started with testing](https://github.com/johannesgiorgis/talkpython/tree/47f054390aad67be86122cabde9015d81b92dc27/data-driven-web-apps-with-flask)
+
+
