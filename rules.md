@@ -12,7 +12,7 @@ Sunday, March 1st, 2020.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. I will work through my Artificial Intelligence Study Plan, intermixed with real project work via Data Science Challenges to compliment and reinforce my studies.
-6. I am allowed to miss one day (then make it up by adding one more day to the end of the 100), but never miss two days in a row.
+6. I am allowed to miss up to two days in a week (then make it up by adding one more day to the end of the 100), but never miss more than two days in a row.
 
 
 ## Ideas to make this challenge more effective
