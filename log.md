@@ -125,3 +125,10 @@ I will continue to make my changes tomorrow and move to the next chapter on test
 **Link(s) to work**: [Getting started with testing](https://github.com/johannesgiorgis/talkpython/tree/47f054390aad67be86122cabde9015d81b92dc27/data-driven-web-apps-with-flask)
 
 
+### Day 14: Tuesday, March 3rd, 2020
+
+**Today's Progress**: Today, I continued my work on Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I completed the _Testing Web Apps_ chapter.
+
+**Thoughts**: Going through the Michael's approach to test, how he breaks it down into testing the 3 web components we have - view models, views and finally integration testing was great. A lot of the tests end up being pretty simple and easy to understand at a glance. I love the elegance.
+
+**Link(s) to work**: [Completed adding testing for web app](https://github.com/johannesgiorgis/talkpython/tree/a606f3862b7b77a34a098b73a27d1c1e95248e9d/data-driven-web-apps-with-flask)
