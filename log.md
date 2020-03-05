@@ -132,3 +132,12 @@ I will continue to make my changes tomorrow and move to the next chapter on test
 **Thoughts**: Going through the Michael's approach to test, how he breaks it down into testing the 3 web components we have - view models, views and finally integration testing was great. A lot of the tests end up being pretty simple and easy to understand at a glance. I love the elegance.
 
 **Link(s) to work**: [Completed adding testing for web app](https://github.com/johannesgiorgis/talkpython/tree/a606f3862b7b77a34a098b73a27d1c1e95248e9d/data-driven-web-apps-with-flask)
+
+
+### Day 15: Wednesday, March 4th, 2020
+
+**Today's Progress**: Today, I continued my work on Talk Python's Building Data Driven Web Applications with Flask, SQLAlchemy & Bootstrap. I completed the _Deployment_ chapter.
+
+**Thoughts**: I attempted to go through this chapter using a Docker approach. However I found the server script Michael used to not work without manual intervention. It looks like it is designed to be run adhocly one by one. So I will work on some modifications over the weekend by setting up a Digital Ocean Droplet as Mike has and deploying my web app there. Over all, it was great learning what it takes to deploy a Python Web App as this was soemthing I didn't fully understanding coming in. Learning how to deploy it by using NGINX with UWSGI was great. I hope to implementing this leearning in a future Python Web App project soon.
+
+**Link(s) to work**: [Initial Deployment Setup](https://github.com/johannesgiorgis/talkpython/tree/a514d2b01a97551e09e8072241ac4c83dd7ae295/data-driven-web-apps-with-flask)
